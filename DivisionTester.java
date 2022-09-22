@@ -2,9 +2,9 @@ class DivisionTester{
 
   public static void main(String a[]){
   
-  DivisionDeveloper.dividesNumber();
+   Division.div(89,43);
+   Division.div(45,87,32);
   
-   System.out.println("Divides the numbers");
   }
-  
+
 }

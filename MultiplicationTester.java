@@ -1,13 +1,9 @@
 class MultiplicationTester{
 
- public static void main(String a[]){
- 
-  MultiplicationDeveloper.multiplyNumber();
+  public static void main(String a[]){
   
-	  
-   System.out.println("multiples number");
-   }
+    Multiplication.mul(20, 60);
+	Multiplication.mul(78,34,56);
+  }
 
-   }
-
-
+}
